@@ -33,7 +33,7 @@ def main():
     p.xaxis.axis_label = "Points SFL"
     p.yaxis.axis_label = "Bet Safety"
 
-    p.scatter('x', 'y', radius=1, source=source, name='teams',  )
+    p.scatter('x', 'y', radius=1, source=source, name='teams', alpha=0.8)
 
     show(p)
 
