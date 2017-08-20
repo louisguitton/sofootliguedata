@@ -6,7 +6,7 @@ import datetime
 
 def main():
     date_element = datetime.date.today().strftime("%Y%m%d")
-    file_path = 'sfl_data_{}.csv'.format(date_element)
+    file_path = 'data/sfl_data_{}.csv'.format(date_element)
     scores = pd.read_csv(file_path)
 
     output_file("index.html")
