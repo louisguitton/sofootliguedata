@@ -48,7 +48,7 @@ def main():
     scores['bet_safety'] = scores["Joueurs l'ayant choisi"] / (1 + scores["choix_autre"])
 
     date_element = datetime.date.today().strftime("%Y%m%d")
-    scores.to_csv('data/sfl_data_{}.csv'.format(date_element))
+    scores.to_csv(os.path.abspath('data/sfl_data_{}.csv'.format(date_element)))
 
 
 if __name__ == '__main__':
