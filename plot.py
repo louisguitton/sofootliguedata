@@ -20,19 +20,13 @@ def get_source(scores):
 
 
 def main():
-    files_list = os.listdir('data')
+    date_element = datetime.date.today().strftime("%Y%m%d")
+    file_path = os.path.abspath('data/sfl_data_{}.csv'.format(date_element))
+    scores = pd.read_csv(file_path)
 
-    scores_list = list()
-    for file_path in files_list:
-        scores = pd.read_csv('data/' + file_path)
-        scores_list.append(scores)
+    output_file(os.path.abspath("index.html"))
 
-    sources_list = list()
-    for scores in scores_list:
-        source = get_source(scores)
-        sources_list.append(source)
-
-    fill_source = get_source(scores_list[0])
+    source = get_source(scores)
 
     hover = HoverTool(
         tooltips=[
@@ -44,37 +38,14 @@ def main():
         names=['teams']
     )
 
-    output_file("index.html")
-
     p = figure(tools=[hover],
-               title="SFL Data", y_axis_type="log")
+               title=file_path, y_axis_type="log")
     p.xaxis.axis_label = "Points SFL"
     p.yaxis.axis_label = "Bet Safety"
 
-    p.scatter('x', 'y', radius=1, source=fill_source, name='teams', alpha=0.8)
+    p.scatter('x', 'y', radius=1, source=source, name='teams', alpha=0.8)
 
-    select = Select(options=files_list, value=files_list[0])
-
-    codes = """
-    var filename = cb_obj.value;
-    var original_data = fill_source.data;
-    var target_data = filename.data;
-
-    console.log(target_data);
-
-    original_data = target_data
-
-    source.trigger("change");
-    """
-
-    source_dict = {k: v for k, v in zip(files_list, sources_list)}
-
-    select.callback = CustomJS(args=dict(fill_source=fill_source, **source_dict), code=codes)
-
-    grid = gridplot([[select], [p]])
-
-    show(grid)
-
+    show(p)
 
 if __name__ == '__main__':
     main()
