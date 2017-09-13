@@ -1,0 +1,17 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,70,CSKA,Benfica 1 - 2 CSKA,86,385,299,0.2866666666666667
+1,2,44,Sporting,Olympiakos 2 - 3 Sporting,389,603,214,1.8093023255813954
+2,3,41,Chelsea,Chelsea 6 - 0 Qarabag FK,405,413,8,45.0
+3,4,37,Paris SG,Celtic 0 - 5 Paris SG,562,646,84,6.6117647058823525
+4,5,32,Barcelone,Barcelone 3 - 0 Juventus,147,922,775,0.18943298969072164
+5,6,27,Manch. Utd,Manch. Utd 3 - 0 Bâle,200,266,66,2.985074626865672
+6,7,26,Bayern Munich,Bayern Munich 3 - 0 Anderlecht,485,505,20,23.095238095238095
+7,8,15,AS Rome,AS Rome 0 - 0 Atl. Madrid,252,844,592,0.42495784148397975
+8,9,13,Atl. Madrid,AS Rome 0 - 0 Atl. Madrid,592,844,252,2.3399209486166006
+9,10,10,Olympiakos,Olympiakos 2 - 3 Sporting,214,603,389,0.5487179487179488
+10,11,5,Benfica,Benfica 1 - 2 CSKA,299,385,86,3.4367816091954024
+11,12,0,Juventus,Barcelone 3 - 0 Juventus,775,922,147,5.236486486486487
+12,12,0,Qarabag FK,Chelsea 6 - 0 Qarabag FK,8,413,405,0.019704433497536946
+13,12,0,Anderlecht,Bayern Munich 3 - 0 Anderlecht,20,505,485,0.0411522633744856
+14,12,0,Bâle,Manch. Utd 3 - 0 Bâle,66,266,200,0.3283582089552239
+15,12,0,Celtic,Celtic 0 - 5 Paris SG,84,646,562,0.1492007104795737
