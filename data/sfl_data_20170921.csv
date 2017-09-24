@@ -1,0 +1,45 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,195,Betis Séville,Real Madrid 0 - 1 Betis Séville,20,425,405,0.04926108374384237
+1,2,52,St Gall,St Gall 2 - 1 Bâle,23,165,142,0.16083916083916083
+2,3,43,Hertha Berlin,Hertha Berlin 2 - 1 Leverkusen,144,282,138,1.0359712230215827
+3,3,43,Hoffenheim,Mayence 2 - 3 Hoffenheim,207,241,34,5.914285714285715
+4,5,41,Naples,Lazio 1 - 4 Naples,257,628,371,0.6908602150537635
+5,6,39,Atalanta Bergame,Atalanta Bergame 5 - 1 Crotone FC,26,56,30,0.8387096774193549
+6,6,39,Torino FC,Udinese 2 - 3 Torino FC,103,184,81,1.2560975609756098
+7,8,38,US Sassuolo,Cagliari 0 - 1 US Sassuolo,35,84,49,0.7
+8,9,35,Young Boys,Young Boys 4 - 1 Lucerne,59,71,12,4.538461538461538
+9,10,33,AS Rome,Benevento Calcio 0 - 4 AS Rome,161,177,16,9.470588235294118
+10,10,33,Atl. Madrid,Athl. Bilbao 1 - 2 Atl. Madrid,363,430,67,5.338235294117647
+11,12,31,E. Francfort,Cologne 0 - 1 E. Francfort,29,205,176,0.1638418079096045
+12,13,29,Dortmund,Hambourg 0 - 3 Dortmund,195,260,65,2.9545454545454546
+13,14,25,La Corogne,La Corogne 1 - 0 CD Alaves,22,37,15,1.375
+14,15,23,Lausanne-Sport,Lausanne-Sport 1 - 1 FC Zürich,53,106,53,0.9814814814814815
+15,16,22,Milan,Milan 2 - 0 SPAL 2013,370,379,9,37.0
+16,17,21,Chievo,Genoa 1 - 1 Chievo,18,100,82,0.21686746987951808
+17,18,19,FC Séville,FC Séville 1 - 0 Las Palmas,100,125,25,3.8461538461538463
+18,18,19,Fribourg,Fribourg 1 - 1 Hanovre,36,138,102,0.34951456310679613
+19,18,19,FC Gérone,CD Leganes 0 - 0 FC Gérone,28,36,8,3.111111111111111
+20,21,18,Juventus,Juventus 1 - 0 Fiorentina AC,232,263,31,7.25
+21,21,18,Hanovre,Fribourg 1 - 1 Hanovre,102,138,36,2.7567567567567566
+22,21,18,Hellas Vérone,Hellas Vérone 0 - 0 Sampdoria,31,96,65,0.4696969696969697
+23,24,17,Genoa,Genoa 1 - 1 Chievo,82,100,18,4.315789473684211
+24,25,15,FC Zürich,Lausanne-Sport 1 - 1 FC Zürich,53,106,53,0.9814814814814815
+25,26,11,CD Leganes,CD Leganes 0 - 0 FC Gérone,8,36,28,0.27586206896551724
+26,26,11,Sampdoria,Hellas Vérone 0 - 0 Sampdoria,65,96,31,2.03125
+27,28,10,Udinese,Udinese 2 - 3 Torino FC,81,184,103,0.7788461538461539
+28,28,10,Mayence,Mayence 2 - 3 Hoffenheim,34,241,207,0.16346153846153846
+29,30,5,Athl. Bilbao,Athl. Bilbao 1 - 2 Atl. Madrid,67,430,363,0.18406593406593408
+30,30,5,Lazio,Lazio 1 - 4 Naples,371,628,257,1.437984496124031
+31,30,5,Crotone FC,Atalanta Bergame 5 - 1 Crotone FC,30,56,26,1.1111111111111112
+32,30,5,Leverkusen,Hertha Berlin 2 - 1 Leverkusen,138,282,144,0.9517241379310345
+33,30,5,Lucerne,Young Boys 4 - 1 Lucerne,12,71,59,0.2
+34,30,5,Bâle,St Gall 2 - 1 Bâle,142,165,23,5.916666666666667
+35,36,0,Real Madrid,Real Madrid 0 - 1 Betis Séville,405,425,20,19.285714285714285
+36,36,0,Cagliari,Cagliari 0 - 1 US Sassuolo,49,84,35,1.3611111111111112
+37,36,0,SPAL 2013,Milan 2 - 0 SPAL 2013,9,379,370,0.02425876010781671
+38,36,0,Las Palmas,FC Séville 1 - 0 Las Palmas,25,125,100,0.24752475247524752
+39,36,0,Hambourg,Hambourg 0 - 3 Dortmund,65,260,195,0.33163265306122447
+40,36,0,Cologne,Cologne 0 - 1 E. Francfort,176,205,29,5.866666666666666
+41,36,0,CD Alaves,La Corogne 1 - 0 CD Alaves,15,37,22,0.6521739130434783
+42,36,0,Fiorentina AC,Juventus 1 - 0 Fiorentina AC,31,263,232,0.13304721030042918
+43,36,0,Benevento Calcio,Benevento Calcio 0 - 4 AS Rome,16,177,161,0.09876543209876543
