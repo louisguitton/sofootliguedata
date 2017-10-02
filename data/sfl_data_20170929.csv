@@ -1,0 +1,49 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,195,Zorya Lougansk,Athl. Bilbao 0 - 1 Zorya Lougansk,9,205,196,0.04568527918781726
+1,2,70,Apollon Limassol,Everton 2 - 2 Apollon Limassol,36,176,140,0.2553191489361702
+2,3,53,Étoile rouge Belgrade,Cologne 0 - 1 Étoile rouge Belgrade,86,137,51,1.6538461538461537
+3,4,50,Austria Vienne,Athènes 2 - 2 Austria Vienne,55,66,11,4.583333333333333
+4,5,48,Ludogorets Razgrad,Ludogorets Razgrad 2 - 1 Hoffenheim,99,145,46,2.106382978723404
+5,6,38,Östersunds FK,Östersunds FK 1 - 0 Hertha Berlin,35,121,86,0.40229885057471265
+6,7,37,Zenit St Petersbourg,Zenit St Petersbourg 3 - 1 Real Sociedad,334,437,103,3.2115384615384617
+7,8,36,Viktoria Plzen,Viktoria Plzen 3 - 1 Hapoël Beer-Sheva,88,113,25,3.3846153846153846
+8,8,36,Dynamo Kiev,Partizan Belgrade 2 - 3 Dynamo Kiev,34,95,61,0.5483870967741935
+9,8,36,Arsenal,Bate Borisov 2 - 4 Arsenal,147,219,72,2.0136986301369864
+10,11,34,Braga,Braga 2 - 1 İstanbul Basaksehir,172,201,29,5.733333333333333
+11,12,33,SC Fotbal Club Fcsb Sa,FC Lugano 1 - 2 SC Fotbal Club Fcsb Sa,17,36,19,0.85
+12,12,33,KF Skenderbeu Korce,KF Skenderbeu Korce 1 - 1 Young Boys,85,99,14,5.666666666666667
+13,14,31,Atiker Konyaspor 1922,Atiker Konyaspor 1922 2 - 1 Guimaraes,8,76,68,0.11594202898550725
+14,15,30,Nice,Nice 3 - 0 Arnheim,170,207,37,4.473684210526316
+15,15,30,Rosenborg,Rosenborg 3 - 1 Vardar Skopje,23,66,43,0.5227272727272727
+16,17,29,Red Bull Salzbourg,Red Bull Salzbourg 1 - 0 Marseille,358,925,567,0.6302816901408451
+17,18,28,Lokomotiv,Lokomotiv 3 - 0 Fastav Zlin,8,23,15,0.5
+18,18,28,Milan,Milan 3 - 2 Rijeka,313,315,2,104.33333333333333
+19,20,26,Atalanta Bergame,Lyon 1 - 1 Atalanta Bergame,280,547,267,1.044776119402985
+20,21,23,Lazio,Lazio 2 - 0 Zulte-Waregem,170,190,20,8.095238095238095
+21,22,22,Slavia Prague,FK Astana 1 - 1 Slavia Prague,55,112,57,0.9482758620689655
+22,23,21,Tiraspol,Tiraspol 0 - 0 Copenhague,31,96,65,0.4696969696969697
+23,24,19,Maccabi Tel Aviv,Maccabi Tel Aviv 0 - 0 Villarreal,30,128,98,0.30303030303030304
+24,25,18,Athènes,Athènes 2 - 2 Austria Vienne,11,66,55,0.19642857142857142
+25,26,17,FK Astana,FK Astana 1 - 1 Slavia Prague,57,112,55,1.0178571428571428
+26,26,17,Everton,Everton 2 - 2 Apollon Limassol,140,176,36,3.7837837837837838
+27,28,15,Lyon,Lyon 1 - 1 Atalanta Bergame,267,547,280,0.9501779359430605
+28,29,14,Young Boys,KF Skenderbeu Korce 1 - 1 Young Boys,14,99,85,0.16279069767441862
+29,30,11,Villarreal,Maccabi Tel Aviv 0 - 0 Villarreal,98,128,30,3.161290322580645
+30,31,10,Copenhague,Tiraspol 0 - 0 Copenhague,65,96,31,2.03125
+31,31,10,Partizan Belgrade,Partizan Belgrade 2 - 3 Dynamo Kiev,61,95,34,1.7428571428571429
+32,31,10,Rijeka,Milan 3 - 2 Rijeka,2,315,313,0.006369426751592357
+33,31,10,Bate Borisov,Bate Borisov 2 - 4 Arsenal,72,219,147,0.4864864864864865
+34,35,5,Guimaraes,Atiker Konyaspor 1922 2 - 1 Guimaraes,68,76,8,7.555555555555555
+35,35,5,Vardar Skopje,Rosenborg 3 - 1 Vardar Skopje,43,66,23,1.7916666666666667
+36,35,5,Real Sociedad,Zenit St Petersbourg 3 - 1 Real Sociedad,103,437,334,0.3074626865671642
+37,35,5,İstanbul Basaksehir,Braga 2 - 1 İstanbul Basaksehir,29,201,172,0.1676300578034682
+38,35,5,Hapoël Beer-Sheva,Viktoria Plzen 3 - 1 Hapoël Beer-Sheva,25,113,88,0.2808988764044944
+39,35,5,FC Lugano,FC Lugano 1 - 2 SC Fotbal Club Fcsb Sa,19,36,17,1.0555555555555556
+40,35,5,Hoffenheim,Ludogorets Razgrad 2 - 1 Hoffenheim,46,145,99,0.46
+41,42,0,Cologne,Cologne 0 - 1 Étoile rouge Belgrade,51,137,86,0.5862068965517241
+42,42,0,Hertha Berlin,Östersunds FK 1 - 0 Hertha Berlin,86,121,35,2.388888888888889
+43,42,0,Zulte-Waregem,Lazio 2 - 0 Zulte-Waregem,20,190,170,0.11695906432748537
+44,42,0,Arnheim,Nice 3 - 0 Arnheim,37,207,170,0.21637426900584794
+45,42,0,Athl. Bilbao,Athl. Bilbao 0 - 1 Zorya Lougansk,196,205,9,19.6
+46,42,0,Marseille,Red Bull Salzbourg 1 - 0 Marseille,567,925,358,1.5793871866295264
+47,42,0,Fastav Zlin,Lokomotiv 3 - 0 Fastav Zlin,15,23,8,1.6666666666666667
