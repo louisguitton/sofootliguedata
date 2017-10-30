@@ -1,0 +1,43 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,58,Tours,Tours 3 - 1 Nantes,57,298,241,0.23553719008264462
+1,2,47,Udinese,US Sassuolo 0 - 1 Udinese,68,110,42,1.5813953488372092
+2,3,45,Amiens,Troyes 1 - 2 Amiens,217,259,42,5.046511627906977
+3,4,42,Milan,Chievo 1 - 4 Milan,360,478,118,3.0252100840336134
+4,5,41,Valenciennes,Lille 2 - 2 Valenciennes,180,275,95,1.875
+5,6,39,Rennes,Dijon 1 - 2 Rennes,178,252,74,2.3733333333333335
+6,7,36,Toulouse,Toulouse 4 - 2 Clermont Foot,85,122,37,2.236842105263158
+7,8,35,KRC Genk,KRC Genk 2 - 0 FC Bruges,36,214,178,0.2011173184357542
+8,9,34,Fiorentina AC,Fiorentina AC 3 - 0 Torino FC,132,186,54,2.4
+9,10,32,Angers,Angers 3 - 2 Nancy,58,100,42,1.3488372093023255
+10,11,31,Juventus,Juventus 4 - 1 SPAL 2013,492,500,8,54.666666666666664
+11,12,29,Atalanta Bergame,Atalanta Bergame 3 - 0 Hellas Vérone,43,60,17,2.388888888888889
+12,12,29,Naples,Genoa 2 - 3 Naples,235,263,28,8.10344827586207
+13,14,27,Waasland-Beveren,Waasland-Beveren 2 - 1 KV Courtrai,18,36,18,0.9473684210526315
+14,14,27,Lazio,Bologne 1 - 2 Lazio,160,191,31,5.0
+15,16,25,Cagliari,Cagliari 2 - 1 Benevento Calcio,23,45,22,1.0
+16,16,25,Anderlecht,Anderlecht 2 - 0 Zulte-Waregem,50,70,20,2.380952380952381
+17,18,21,Metz,Metz 1 - 0 Red Star,15,443,428,0.03496503496503497
+18,19,19,Strasbourg,Strasbourg 1 - 1 Saint-Etienne,271,407,136,1.9781021897810218
+19,20,18,Lille,Lille 2 - 2 Valenciennes,95,275,180,0.5248618784530387
+20,21,17,AS Rome,AS Rome 1 - 0 Crotone FC,166,173,7,20.75
+21,21,17,Saint-Etienne,Strasbourg 1 - 1 Saint-Etienne,136,407,271,0.5
+22,23,10,Genoa,Genoa 2 - 3 Naples,28,263,235,0.11864406779661017
+23,23,10,Clermont Foot,Toulouse 4 - 2 Clermont Foot,37,122,85,0.43023255813953487
+24,23,10,Nancy,Angers 3 - 2 Nancy,42,100,58,0.711864406779661
+25,26,8,Metz,Red Star 0 - 0 Metz,15,443,428,0.03496503496503497
+26,27,5,Dijon,Dijon 1 - 2 Rennes,74,252,178,0.4134078212290503
+27,27,5,Troyes,Troyes 1 - 2 Amiens,42,259,217,0.1926605504587156
+28,27,5,Nantes,Tours 3 - 1 Nantes,241,298,57,4.155172413793103
+29,27,5,Chievo,Chievo 1 - 4 Milan,118,478,360,0.3268698060941828
+30,27,5,Bologne,Bologne 1 - 2 Lazio,31,191,160,0.19254658385093168
+31,27,5,SPAL 2013,Juventus 4 - 1 SPAL 2013,8,500,492,0.016227180527383367
+32,27,5,Benevento Calcio,Cagliari 2 - 1 Benevento Calcio,22,45,23,0.9166666666666666
+33,27,5,KV Courtrai,Waasland-Beveren 2 - 1 KV Courtrai,18,36,18,0.9473684210526315
+34,35,0,Red Star,Red Star 0 - 0 Metz,428,443,15,26.75
+35,35,0,US Sassuolo,US Sassuolo 0 - 1 Udinese,42,110,68,0.6086956521739131
+36,35,0,Red Star,Metz 1 - 0 Red Star,428,443,15,26.75
+37,35,0,Crotone FC,AS Rome 1 - 0 Crotone FC,7,173,166,0.041916167664670656
+38,35,0,Torino FC,Fiorentina AC 3 - 0 Torino FC,54,186,132,0.40601503759398494
+39,35,0,Hellas Vérone,Atalanta Bergame 3 - 0 Hellas Vérone,17,60,43,0.38636363636363635
+40,35,0,FC Bruges,KRC Genk 2 - 0 FC Bruges,178,214,36,4.8108108108108105
+41,35,0,Zulte-Waregem,Anderlecht 2 - 0 Zulte-Waregem,20,70,50,0.39215686274509803

@@ -1,0 +1,25 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,53,Excelsior,Twente 1 - 3 Excelsior,40,307,267,0.14925373134328357
+1,2,49,Orleans,Brest 0 - 1 Orleans,22,220,198,0.11055276381909548
+2,3,38,Kasimpasa,Kasimpasa 3 - 1 Goztepe AS,59,272,213,0.2757009345794392
+3,3,38,Royal Charleroi,Royal Charleroi 2 - 1 La Gantoise,71,181,110,0.6396396396396397
+4,5,30,Le Havre,Quevilly 0 - 2 Le Havre,155,204,49,3.1
+5,5,30,Sochaux,Sochaux 2 - 1 Niort,167,236,69,2.3857142857142857
+6,7,27,Paris Saint Germain,Paris Saint Germain 3 - 0 Nice,713,986,273,2.602189781021898
+7,8,21,Bourg en Bresse Peronnas,Bourg en Bresse Peronnas 1 - 1 Auxerre,80,269,189,0.42105263157894735
+8,9,20,Sporting,Rio Ave 0 - 1 Sporting,230,272,42,5.348837209302325
+9,10,19,Mayence,Mayence 1 - 1 E. Francfort,444,744,300,1.4750830564784052
+10,11,18,E. Francfort,Mayence 1 - 1 E. Francfort,300,744,444,0.6741573033707865
+11,11,18,Paris FC,GFC Ajaccio 0 - 0 Paris FC,279,366,87,3.1704545454545454
+12,13,17,Auxerre,Bourg en Bresse Peronnas 1 - 1 Auxerre,189,269,80,2.3333333333333335
+13,14,16,Benfica,Benfica 1 - 0 CD Feirense,414,427,13,29.571428571428573
+14,15,11,GFC Ajaccio,GFC Ajaccio 0 - 0 Paris FC,87,366,279,0.3107142857142857
+15,16,5,Niort,Sochaux 2 - 1 Niort,69,236,167,0.4107142857142857
+16,16,5,Goztepe AS,Kasimpasa 3 - 1 Goztepe AS,213,272,59,3.55
+17,16,5,La Gantoise,Royal Charleroi 2 - 1 La Gantoise,110,181,71,1.5277777777777777
+18,16,5,Twente,Twente 1 - 3 Excelsior,267,307,40,6.512195121951219
+19,20,0,Nice,Paris Saint Germain 3 - 0 Nice,273,986,713,0.38235294117647056
+20,20,0,CD Feirense,Benfica 1 - 0 CD Feirense,13,427,414,0.03132530120481928
+21,20,0,Quevilly,Quevilly 0 - 2 Le Havre,49,204,155,0.3141025641025641
+22,20,0,Brest,Brest 0 - 1 Orleans,198,220,22,8.608695652173912
+23,20,0,Rio Ave,Rio Ave 0 - 1 Sporting,42,272,230,0.18181818181818182
