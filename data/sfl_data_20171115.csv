@@ -1,0 +1,35 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,95,Nigéria,Argentine 2 - 4 Nigéria,60,336,276,0.21660649819494585
+1,2,55,Russie,Russie 3 - 3 Espagne,26,178,152,0.16993464052287582
+2,2,55,Etats-Unis,Portugal 1 - 1 Etats-Unis,63,188,125,0.5
+3,4,53,Danemark,Irlande 1 - 5 Danemark,119,498,379,0.3131578947368421
+4,5,40,Autriche,Autriche 2 - 1 Uruguay,40,262,222,0.17937219730941703
+5,6,38,Panama,Pays de Galles 1 - 1 Panama,22,83,61,0.3548387096774194
+6,7,37,Pays-Bas,Roumanie 0 - 3 Pays-Bas,144,230,86,1.6551724137931034
+7,8,34,Colombie,Chine 0 - 4 Colombie,108,168,60,1.7704918032786885
+8,9,30,Qatar,Qatar 1 - 1 Islande,32,66,34,0.9142857142857143
+9,10,29,Emirats Arabes Unis,Emirats Arabes Unis 1 - 0 Ouzbékistan,5,14,9,0.5
+10,11,28,Algérie,Algérie 3 - 0 Central African Republic,5,11,6,0.7142857142857143
+11,11,28,Hongrie,Hongrie 1 - 0 Costa Rica,61,105,44,1.3555555555555556
+12,13,27,France,Allemagne 2 - 2 France,722,866,144,4.979310344827586
+13,14,25,Angleterre,Angleterre 0 - 0 Brésil,253,337,84,2.976470588235294
+14,15,23,Slovaquie,Slovaquie 1 - 0 Norvège,37,66,29,1.2333333333333334
+15,16,22,Espagne,Russie 3 - 3 Espagne,152,178,26,5.62962962962963
+16,17,21,Allemagne,Allemagne 2 - 2 France,144,866,722,0.1991701244813278
+17,18,19,Serbie,Corée du Sud 1 - 1 Serbie,144,207,63,2.25
+18,19,18,Belgique,Belgique 1 - 0 Japon,472,493,21,21.454545454545453
+19,19,18,Corée du Sud,Corée du Sud 1 - 1 Serbie,63,207,144,0.43448275862068964
+20,21,14,Pays de Galles,Pays de Galles 1 - 1 Panama,61,83,22,2.652173913043478
+21,21,14,Islande,Qatar 1 - 1 Islande,34,66,32,1.0303030303030303
+22,23,12,Portugal,Portugal 1 - 1 Etats-Unis,125,188,63,1.953125
+23,24,10,Argentine,Argentine 2 - 4 Nigéria,276,336,60,4.524590163934426
+24,25,9,Brésil,Angleterre 0 - 0 Brésil,84,337,253,0.33070866141732286
+25,26,5,Irlande,Irlande 1 - 5 Danemark,379,498,119,3.158333333333333
+26,26,5,Uruguay,Autriche 2 - 1 Uruguay,222,262,40,5.414634146341464
+27,28,0,Chine,Chine 0 - 4 Colombie,60,168,108,0.5504587155963303
+28,28,0,Roumanie,Roumanie 0 - 3 Pays-Bas,86,230,144,0.593103448275862
+29,28,0,Central African Republic,Algérie 3 - 0 Central African Republic,6,11,5,1.0
+30,28,0,Ouzbékistan,Emirats Arabes Unis 1 - 0 Ouzbékistan,9,14,5,1.5
+31,28,0,Norvège,Slovaquie 1 - 0 Norvège,29,66,37,0.7631578947368421
+32,28,0,Japon,Belgique 1 - 0 Japon,21,493,472,0.04439746300211417
+33,28,0,Costa Rica,Hongrie 1 - 0 Costa Rica,44,105,61,0.7096774193548387
