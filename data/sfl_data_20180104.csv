@@ -1,0 +1,17 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,46,Moreirense FC,CD Aves 1 - 2 Moreirense FC,37,76,39,0.925
+1,2,39,GD Chaves,CS Maritimo 1 - 2 GD Chaves,28,200,172,0.16184971098265896
+2,3,37,Rio Ave,Rio Ave 4 - 2 Paços Ferreira,96,126,30,3.096774193548387
+3,4,36,Braga,Boavista FC 1 - 3 Braga,185,350,165,1.1144578313253013
+4,5,24,Arsenal,Arsenal 2 - 2 Chelsea,188,1438,1250,0.15027977617905675
+5,6,23,Chelsea,Arsenal 2 - 2 Chelsea,1250,1438,188,6.613756613756614
+6,6,23,Juventus,Juventus 2 - 0 Torino FC,594,661,67,8.735294117647058
+7,8,22,Porto,CD Feirense 1 - 2 Porto,419,467,48,8.551020408163266
+8,9,21,Sporting,Benfica 1 - 1 Sporting,229,578,349,0.6542857142857142
+9,10,17,Benfica,Benfica 1 - 1 Sporting,349,578,229,1.517391304347826
+10,11,10,Paços Ferreira,Rio Ave 4 - 2 Paços Ferreira,30,126,96,0.30927835051546393
+11,12,5,CD Aves,CD Aves 1 - 2 Moreirense FC,39,76,37,1.0263157894736843
+12,12,5,Boavista FC,Boavista FC 1 - 3 Braga,165,350,185,0.8870967741935484
+13,12,5,CD Feirense,CD Feirense 1 - 2 Porto,48,467,419,0.11428571428571428
+14,12,5,CS Maritimo,CS Maritimo 1 - 2 GD Chaves,172,200,28,5.931034482758621
+15,16,0,Torino FC,Juventus 2 - 0 Torino FC,67,661,594,0.11260504201680673

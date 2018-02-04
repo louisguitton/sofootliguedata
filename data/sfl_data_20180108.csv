@@ -1,0 +1,53 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,95,Nottingham Forest,Nottingham Forest 4 - 2 Arsenal,52,192,140,0.36879432624113473
+1,2,90,US Granville,US Granville 2 - 1 Bordeaux,80,93,13,5.714285714285714
+2,3,58,Epinal,Sannois Saint-Gratien 1 - 2 Epinal,23,26,3,5.75
+3,4,55,Bieshiem,U.s. Fleury 0 - 1 Bieshiem,11,17,6,1.5714285714285714
+4,4,55,Newport County,Newport County 2 - 1 Leeds United,75,135,60,1.2295081967213115
+5,6,54,Sochaux,Sochaux 6 - 0 Amiens,34,133,99,0.34
+6,7,45,Lorient,Angers 0 - 2 Lorient,60,96,36,1.6216216216216217
+7,8,42,Paris SG,Rennes 1 - 6 Paris SG,44,96,52,0.8301886792452831
+8,9,40,Metz,Dunkerque 2 - 4 Metz,4,10,6,0.5714285714285714
+9,9,40,Celta Vigo,Celta Vigo 2 - 2 Real Madrid,140,473,333,0.41916167664670656
+10,11,37,Sporting,Sporting 5 - 0 CS Maritimo,31,37,6,4.428571428571429
+11,12,36,Strasbourg,Strasbourg 3 - 2 Dijon,118,151,33,3.4705882352941178
+12,12,36,CD Leganes,CD Leganes 1 - 0 Real Sociedad,110,338,228,0.48034934497816595
+13,14,35,La Corogne,Villarreal 1 - 1 La Corogne,29,166,137,0.21014492753623187
+14,15,32,St. Etienne,St. Etienne 2 - 0 Nîmes,101,275,174,0.5771428571428572
+15,16,31,Nantes,Senlis 0 - 4 Nantes,26,48,22,1.1304347826086956
+16,16,31,Porto,Porto 4 - 2 Guimaraes,40,41,1,20.0
+17,18,27,Athl. Bilbao,Athl. Bilbao 2 - 0 CD Alaves,162,193,31,5.0625
+18,19,26,Tottenham,Tottenham 3 - 0 AFC Wimbledon,89,103,14,5.933333333333334
+19,19,26,Barcelone,Barcelone 3 - 0 Levante,636,755,119,5.3
+20,21,25,CD Aves,GD Chaves 1 - 1 CD Aves,9,59,50,0.17647058823529413
+21,22,23,Benfica,Moreirense FC 0 - 2 Benfica,18,39,21,0.8181818181818182
+22,23,20,Shrewsbury Town,Shrewsbury Town 0 - 0 West Ham,54,186,132,0.40601503759398494
+23,24,18,Real Madrid,Celta Vigo 2 - 2 Real Madrid,333,473,140,2.3617021276595747
+24,24,18,Stade Briochin,Vannes OC 1 - 1 Stade Briochin,11,43,32,0.3333333333333333
+25,26,17,Marseille,Marseille 1 - 0 Valenciennes,38,81,43,0.8636363636363636
+26,26,17,Vannes OC,Vannes OC 1 - 1 Stade Briochin,32,43,11,2.6666666666666665
+27,28,16,Troyes,Still 0 - 1 Troyes,82,131,49,1.64
+28,29,15,GD Chaves,GD Chaves 1 - 1 CD Aves,50,59,9,5.0
+29,30,13,Villarreal,Villarreal 1 - 1 La Corogne,137,166,29,4.566666666666666
+30,31,10,Dijon,Strasbourg 3 - 2 Dijon,33,151,118,0.2773109243697479
+31,31,10,Arsenal,Nottingham Forest 4 - 2 Arsenal,140,192,52,2.641509433962264
+32,31,10,West Ham,Shrewsbury Town 0 - 0 West Ham,132,186,54,2.4
+33,31,10,Guimaraes,Porto 4 - 2 Guimaraes,1,41,40,0.024390243902439025
+34,31,10,Dunkerque,Dunkerque 2 - 4 Metz,6,10,4,1.2
+35,36,5,Rennes,Rennes 1 - 6 Paris SG,52,96,44,1.1555555555555554
+36,36,5,Bordeaux,US Granville 2 - 1 Bordeaux,13,93,80,0.16049382716049382
+37,36,5,Leeds United,Newport County 2 - 1 Leeds United,60,135,75,0.7894736842105263
+38,36,5,Sannois Saint-Gratien,Sannois Saint-Gratien 1 - 2 Epinal,3,26,23,0.125
+39,40,0,Angers,Angers 0 - 2 Lorient,36,96,60,0.5901639344262295
+40,40,0,Valenciennes,Marseille 1 - 0 Valenciennes,43,81,38,1.1025641025641026
+41,40,0,Nîmes,St. Etienne 2 - 0 Nîmes,174,275,101,1.7058823529411764
+42,40,0,Amiens,Sochaux 6 - 0 Amiens,99,133,34,2.8285714285714287
+43,40,0,CD Alaves,Athl. Bilbao 2 - 0 CD Alaves,31,193,162,0.1901840490797546
+44,40,0,Real Sociedad,CD Leganes 1 - 0 Real Sociedad,228,338,110,2.054054054054054
+45,40,0,Moreirense FC,Moreirense FC 0 - 2 Benfica,21,39,18,1.105263157894737
+46,40,0,AFC Wimbledon,Tottenham 3 - 0 AFC Wimbledon,14,103,89,0.15555555555555556
+47,40,0,Levante,Barcelone 3 - 0 Levante,119,755,636,0.18681318681318682
+48,40,0,CS Maritimo,Sporting 5 - 0 CS Maritimo,6,37,31,0.1875
+49,40,0,Still,Still 0 - 1 Troyes,49,131,82,0.5903614457831325
+50,40,0,Senlis,Senlis 0 - 4 Nantes,22,48,26,0.8148148148148148
+51,40,0,U.s. Fleury,U.s. Fleury 0 - 1 Bieshiem,6,17,11,0.5

@@ -1,0 +1,27 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,115,Lille,Lyon 1 - 2 Lille,40,564,524,0.0761904761904762
+1,2,52,Burnley FC,Bournemouth 1 - 2 Burnley FC,178,240,62,2.8253968253968256
+2,3,48,Rennes,Angers 1 - 2 Rennes,355,421,66,5.298507462686567
+3,4,44,Everton,Everton 4 - 0 West Ham,127,212,85,1.4767441860465116
+4,5,43,Nantes,Nantes 1 - 0 Monaco,189,384,195,0.9642857142857143
+5,6,40,Nice,Toulouse 1 - 2 Nice,201,281,80,2.4814814814814814
+6,7,37,Arsenal,Arsenal 5 - 0 Huddersfield T.,84,165,81,1.024390243902439
+7,8,30,Marseille,Metz 0 - 3 Marseille,158,264,106,1.4766355140186915
+8,8,30,Liverpool,Stoke 0 - 3 Liverpool,104,172,68,1.5072463768115942
+9,10,22,Manch. City,Manch. City 2 - 1 Southampton,193,213,20,9.19047619047619
+10,11,21,Paris SG,Paris SG 2 - 0 Troyes,515,603,88,5.786516853932584
+11,12,17,Chelsea,Chelsea 1 - 0 Swansea City,212,232,20,10.095238095238095
+12,13,16,Montpellier,Guingamp 0 - 0 Montpellier,294,397,103,2.826923076923077
+13,14,13,Guingamp,Guingamp 0 - 0 Montpellier,103,397,294,0.34915254237288135
+14,15,5,Southampton,Manch. City 2 - 1 Southampton,20,213,193,0.10309278350515463
+15,15,5,Toulouse,Toulouse 1 - 2 Nice,80,281,201,0.39603960396039606
+16,15,5,Lyon,Lyon 1 - 2 Lille,524,564,40,12.78048780487805
+17,15,5,Angers,Angers 1 - 2 Rennes,66,421,355,0.1853932584269663
+18,15,5,Bournemouth,Bournemouth 1 - 2 Burnley FC,62,240,178,0.3463687150837989
+19,20,0,Troyes,Paris SG 2 - 0 Troyes,88,603,515,0.17054263565891473
+20,20,0,Monaco,Nantes 1 - 0 Monaco,195,384,189,1.0263157894736843
+21,20,0,West Ham,Everton 4 - 0 West Ham,85,212,127,0.6640625
+22,20,0,Swansea City,Chelsea 1 - 0 Swansea City,20,232,212,0.09389671361502347
+23,20,0,Huddersfield T.,Arsenal 5 - 0 Huddersfield T.,81,165,84,0.9529411764705882
+24,20,0,Metz,Metz 0 - 3 Marseille,106,264,158,0.6666666666666666
+25,20,0,Stoke,Stoke 0 - 3 Liverpool,68,172,104,0.6476190476190476

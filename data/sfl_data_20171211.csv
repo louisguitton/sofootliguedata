@@ -1,0 +1,71 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,75,Royal Charleroi,Anderlecht 1 - 3 Royal Charleroi,47,72,25,1.8076923076923077
+1,2,70,Malaga,Real Sociedad 0 - 2 Malaga,30,71,41,0.7142857142857143
+2,3,65,Lucerne,FC Zürich 1 - 2 Lucerne,3,14,11,0.25
+3,4,60,Everton,Liverpool 1 - 1 Everton,75,282,207,0.3605769230769231
+4,4,60,Lausanne-Sport,FC Lugano 1 - 2 Lausanne-Sport,28,38,10,2.5454545454545454
+5,6,51,Fribourg,Cologne 3 - 4 Fribourg,48,85,37,1.263157894736842
+6,7,45,Nice,Nantes 1 - 2 Nice,251,525,274,0.9127272727272727
+7,7,45,GD Chaves,Portimonense 0 - 1 GD Chaves,3,8,5,0.5
+8,9,40,Hanovre,Hanovre 2 - 0 Hoffenheim,34,73,39,0.85
+9,10,37,Sivasspor,Sivasspor 1 - 0 İstanbul Basaksehir,3,51,48,0.061224489795918366
+10,10,37,Porto,Vitoria 0 - 5 Porto,54,74,20,2.5714285714285716
+11,12,35,Fiorentina AC,Naples 0 - 0 Fiorentina AC,25,148,123,0.20161290322580644
+12,13,34,Grasshopper,Young Boys 1 - 1 Grasshopper,10,27,17,0.5555555555555556
+13,14,33,Ajax,Ajax 3 - 0 PSV,18,156,138,0.12949640287769784
+14,14,33,Chievo,Chievo 0 - 0 AS Rome,19,87,68,0.2753623188405797
+15,14,33,Manch. City,Manch. Utd 1 - 2 Manch. City,129,513,384,0.33506493506493507
+16,14,33,Osmanlispor,Osmanlispor 3 - 0 Alanyaspor,6,13,7,0.75
+17,18,32,Athl. Bilbao,Levante 1 - 2 Athl. Bilbao,28,53,25,1.0769230769230769
+18,19,30,Marseille,Marseille 3 - 0 Saint-Etienne,169,275,106,1.5794392523364487
+19,20,28,Hellas Vérone,SPAL 2013 2 - 2 Hellas Vérone,21,40,19,1.05
+20,20,28,Kayserispor,Kayserispor 1 - 1 Besiktas,15,41,26,0.5555555555555556
+21,22,27,Lyon,Amiens 1 - 2 Lyon,196,309,113,1.719298245614035
+22,22,27,FC Bruges,FC Bruges 3 - 1 Sporting Lokeren,56,64,8,6.222222222222222
+23,22,27,US Sassuolo,US Sassuolo 2 - 1 Crotone FC,12,23,11,1.0
+24,25,25,Southampton,Southampton 1 - 1 Arsenal,57,271,214,0.2651162790697674
+25,25,25,Hertha Berlin,Augsbourg 1 - 1 Hertha Berlin,35,67,32,1.0606060606060606
+26,25,25,Roda,Roda 2 - 2 Groningue,5,8,3,1.25
+27,25,25,Udinese,Udinese 2 - 0 Benevento Calcio,56,102,46,1.1914893617021276
+28,25,25,Milan,Milan 2 - 1 Bologne,56,131,75,0.7368421052631579
+29,25,25,Barcelone,Villarreal 0 - 2 Barcelone,112,164,52,2.1132075471698113
+30,25,25,Paços Ferreira,CF Belenenses 1 - 1 Paços Ferreira,3,9,6,0.42857142857142855
+31,32,23,Atl. Madrid,Betis Séville 0 - 1 Atl. Madrid,115,153,38,2.948717948717949
+32,33,22,Groningue,Roda 2 - 2 Groningue,3,8,5,0.5
+33,34,20,Zulte-Waregem,Saint-Trond 1 - 1 Zulte-Waregem,13,23,10,1.1818181818181819
+34,34,20,SPAL 2013,SPAL 2013 2 - 2 Hellas Vérone,19,40,21,0.8636363636363636
+35,36,18,Utrecht,Utrecht 0 - 0 Feyenoord,23,53,30,0.7419354838709677
+36,37,17,Sparta Rotterdam,Sparta Rotterdam 0 - 0 Arnheim,12,14,2,4.0
+37,38,16,Saint-Trond,Saint-Trond 1 - 1 Zulte-Waregem,10,23,13,0.7142857142857143
+38,39,15,Arsenal,Southampton 1 - 1 Arsenal,214,271,57,3.689655172413793
+39,39,15,CF Belenenses,CF Belenenses 1 - 1 Paços Ferreira,6,9,3,1.5
+40,39,15,Augsbourg,Augsbourg 1 - 1 Hertha Berlin,32,67,35,0.8888888888888888
+41,39,15,Cologne,Cologne 3 - 4 Fribourg,37,85,48,0.7551020408163265
+42,43,14,Besiktas,Kayserispor 1 - 1 Besiktas,26,41,15,1.625
+43,44,13,Young Boys,Young Boys 1 - 1 Grasshopper,17,27,10,1.5454545454545454
+44,45,12,Liverpool,Liverpool 1 - 1 Everton,207,282,75,2.723684210526316
+45,46,11,Arnheim,Sparta Rotterdam 0 - 0 Arnheim,2,14,12,0.15384615384615385
+46,47,10,Feyenoord,Utrecht 0 - 0 Feyenoord,30,53,23,1.25
+47,48,8,AS Rome,Chievo 0 - 0 AS Rome,68,87,19,3.4
+48,49,7,Naples,Naples 0 - 0 Fiorentina AC,123,148,25,4.730769230769231
+49,50,5,Manch. Utd,Manch. Utd 1 - 2 Manch. City,384,513,129,2.953846153846154
+50,50,5,Anderlecht,Anderlecht 1 - 3 Royal Charleroi,25,72,47,0.5208333333333334
+51,50,5,FC Lugano,FC Lugano 1 - 2 Lausanne-Sport,10,38,28,0.3448275862068966
+52,50,5,Sporting Lokeren,FC Bruges 3 - 1 Sporting Lokeren,8,64,56,0.14035087719298245
+53,50,5,Nantes,Nantes 1 - 2 Nice,274,525,251,1.0873015873015872
+54,50,5,Amiens,Amiens 1 - 2 Lyon,113,309,196,0.5736040609137056
+55,50,5,Crotone FC,US Sassuolo 2 - 1 Crotone FC,11,23,12,0.8461538461538461
+56,50,5,FC Zürich,FC Zürich 1 - 2 Lucerne,11,14,3,2.75
+57,50,5,Bologne,Milan 2 - 1 Bologne,75,131,56,1.3157894736842106
+58,50,5,Levante,Levante 1 - 2 Athl. Bilbao,25,53,28,0.8620689655172413
+59,60,0,Vitoria,Vitoria 0 - 5 Porto,20,74,54,0.36363636363636365
+60,60,0,PSV,Ajax 3 - 0 PSV,138,156,18,7.2631578947368425
+61,60,0,Hoffenheim,Hanovre 2 - 0 Hoffenheim,39,73,34,1.1142857142857143
+62,60,0,Saint-Etienne,Marseille 3 - 0 Saint-Etienne,106,275,169,0.6235294117647059
+63,60,0,Benevento Calcio,Udinese 2 - 0 Benevento Calcio,46,102,56,0.8070175438596491
+64,60,0,İstanbul Basaksehir,Sivasspor 1 - 0 İstanbul Basaksehir,48,51,3,12.0
+65,60,0,Portimonense,Portimonense 0 - 1 GD Chaves,5,8,3,1.25
+66,60,0,Betis Séville,Betis Séville 0 - 1 Atl. Madrid,38,153,115,0.3275862068965517
+67,60,0,Real Sociedad,Real Sociedad 0 - 2 Malaga,41,71,30,1.3225806451612903
+68,60,0,Alanyaspor,Osmanlispor 3 - 0 Alanyaspor,7,13,6,1.0
+69,60,0,Villarreal,Villarreal 0 - 2 Barcelone,52,164,112,0.46017699115044247

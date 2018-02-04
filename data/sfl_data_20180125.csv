@@ -1,0 +1,33 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,140,CD Leganes,Real Madrid 1 - 2 CD Leganes,6,116,110,0.05405405405405406
+1,2,45,Waasland-Beveren,Anderlecht 2 - 2 Waasland-Beveren,11,109,98,0.1111111111111111
+2,3,44,Lyon,Monaco 2 - 3 Lyon,216,304,88,2.4269662921348316
+3,4,39,Montpellier,Montpellier 4 - 3 Lorient,152,277,125,1.2063492063492063
+4,4,39,Biesheim,Biesheim 2 - 2 Grenoble,135,170,35,3.75
+5,6,37,KAS Eupen,KAS Eupen 1 - 0 Royal Charleroi,6,152,146,0.04081632653061224
+6,7,31,Paris SG,Paris SG 4 - 2 Guingamp,298,343,45,6.478260869565218
+7,7,31,Lazio,Lazio 3 - 0 Udinese,400,454,54,7.2727272727272725
+8,9,30,KRC Genk,Sporting Lokeren 1 - 2 KRC Genk,15,34,19,0.75
+9,10,28,Les Herbiers,Saint Lo 1 - 2 Les Herbiers,24,285,261,0.0916030534351145
+10,10,28,CD Alaves,CD Alaves 2 - 2 Valence,34,241,207,0.16346153846153846
+11,12,23,Sampdoria,Sampdoria 1 - 1 AS Rome,217,458,241,0.8966942148760331
+12,13,21,Royal Antwerp,Royal Antwerp 1 - 1 La Gantoise,57,90,33,1.6764705882352942
+13,13,21,St. Etienne,Troyes 1 - 1 St. Etienne,248,350,102,2.407766990291262
+14,15,20,Utrecht,Utrecht 1 - 1 Feyenoord,22,159,137,0.15942028985507245
+15,15,20,Valence,CD Alaves 2 - 2 Valence,207,241,34,5.914285714285715
+16,17,18,Grenoble,Biesheim 2 - 2 Grenoble,35,170,135,0.25735294117647056
+17,18,17,Anderlecht,Anderlecht 2 - 2 Waasland-Beveren,98,109,11,8.166666666666666
+18,18,17,La Gantoise,Royal Antwerp 1 - 1 La Gantoise,33,90,57,0.5689655172413793
+19,18,17,Troyes,Troyes 1 - 1 St. Etienne,102,350,248,0.40963855421686746
+20,21,16,Feyenoord,Utrecht 1 - 1 Feyenoord,137,159,22,5.956521739130435
+21,22,15,Metz,Tours 0 - 0 Metz,301,399,98,3.04040404040404
+22,22,15,Lorient,Montpellier 4 - 3 Lorient,125,277,152,0.8169934640522876
+23,22,15,AS Rome,Sampdoria 1 - 1 AS Rome,241,458,217,1.1055045871559632
+24,25,13,Tours,Tours 0 - 0 Metz,98,399,301,0.32450331125827814
+25,26,10,Monaco,Monaco 2 - 3 Lyon,88,304,216,0.4055299539170507
+26,26,10,Guingamp,Paris SG 4 - 2 Guingamp,45,343,298,0.1505016722408027
+27,28,5,Sporting Lokeren,Sporting Lokeren 1 - 2 KRC Genk,19,34,15,1.1875
+28,28,5,Real Madrid,Real Madrid 1 - 2 CD Leganes,110,116,6,15.714285714285714
+29,28,5,Saint Lo,Saint Lo 1 - 2 Les Herbiers,261,285,24,10.44
+30,31,0,Udinese,Lazio 3 - 0 Udinese,54,454,400,0.13466334164588528
+31,31,0,Royal Charleroi,KAS Eupen 1 - 0 Royal Charleroi,146,152,6,20.857142857142858

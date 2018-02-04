@@ -1,0 +1,47 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,75,West Bromwich,Liverpool 0 - 0 West Bromwich,17,205,188,0.08994708994708994
+1,2,59,Leicester City,Southampton 1 - 4 Leicester City,340,395,55,6.071428571428571
+2,3,51,Montpellier,Montpellier 4 - 1 Lyon,146,318,172,0.8439306358381503
+3,4,48,Groningue,Groningue 3 - 3 PSV,8,55,47,0.16666666666666666
+4,4,48,Heerenven,Feyenoord 1 - 1 Heerenven,6,23,17,0.3333333333333333
+5,6,40,Willem II,Arnheim 2 - 2 Willem II,12,18,6,1.7142857142857142
+6,7,37,Everton,Newcastle 0 - 1 Everton,256,324,68,3.710144927536232
+7,8,35,Hertha Berlin,Hertha Berlin 3 - 1 Hanovre,62,102,40,1.5121951219512195
+8,9,33,Schalke 04,Schalke 04 3 - 2 Augsbourg,150,162,12,11.538461538461538
+9,10,32,Paris SG,Strasbourg 2 - 4 Paris SG,131,198,67,1.9264705882352942
+10,10,32,La Haye,La Haye 3 - 2 Roda,4,12,8,0.4444444444444444
+11,10,32,Manch. City,Swansea City 0 - 4 Manch. City,158,225,67,2.323529411764706
+12,13,28,West Ham,West Ham 0 - 0 Arsenal,110,186,76,1.4285714285714286
+13,14,26,Rennes,Rennes 2 - 2 Marseille,287,440,153,1.8636363636363635
+14,15,25,Amiens,Amiens 2 - 1 Tours,84,220,136,0.6131386861313869
+15,15,25,Utrecht,VVV Venlo 0 - 1 Utrecht,20,29,9,2.0
+16,17,23,Hoffenheim,Hoffenheim 1 - 0 Stuttgart,51,72,21,2.3181818181818183
+17,18,22,Tottenham,Tottenham 2 - 0 B & H Albion,108,122,14,7.2
+18,18,22,PSV,Groningue 3 - 3 PSV,47,55,8,5.222222222222222
+19,20,21,Marseille,Rennes 2 - 2 Marseille,153,440,287,0.53125
+20,21,19,Nice,Lille 1 - 1 Nice,150,311,161,0.9259259259259259
+21,21,19,Leverkusen,Leverkusen 1 - 0 Brême,34,64,30,1.096774193548387
+22,23,18,Lille,Lille 1 - 1 Nice,161,311,150,1.0662251655629138
+23,23,18,Manch. Utd,Manch. Utd 1 - 0 Bournemouth,151,164,13,10.785714285714286
+24,23,18,Arnheim,Arnheim 2 - 2 Willem II,6,18,12,0.46153846153846156
+25,26,16,Bayern Munich,Bayern Munich 1 - 0 Cologne,323,352,29,10.766666666666667
+26,27,12,Feyenoord,Feyenoord 1 - 1 Heerenven,17,23,6,2.4285714285714284
+27,28,10,Roda,La Haye 3 - 2 Roda,8,12,4,1.6
+28,28,10,Strasbourg,Strasbourg 2 - 4 Paris SG,67,198,131,0.5075757575757576
+29,28,10,Augsbourg,Schalke 04 3 - 2 Augsbourg,12,162,150,0.07947019867549669
+30,31,8,Arsenal,West Ham 0 - 0 Arsenal,76,186,110,0.6846846846846847
+31,32,6,Liverpool,Liverpool 0 - 0 West Bromwich,188,205,17,10.444444444444445
+32,33,5,Southampton,Southampton 1 - 4 Leicester City,55,395,340,0.16129032258064516
+33,33,5,Lyon,Montpellier 4 - 1 Lyon,172,318,146,1.1700680272108843
+34,33,5,Tours,Amiens 2 - 1 Tours,136,220,84,1.6
+35,33,5,Hanovre,Hertha Berlin 3 - 1 Hanovre,40,102,62,0.6349206349206349
+36,37,0,Brême,Leverkusen 1 - 0 Brême,30,64,34,0.8571428571428571
+37,37,0,Stuttgart,Hoffenheim 1 - 0 Stuttgart,21,72,51,0.40384615384615385
+38,37,0,Sampdoria,Sampdoria 0 - 0 AS Rome,12,71,59,0.2
+39,37,0,VVV Venlo,VVV Venlo 0 - 1 Utrecht,9,29,20,0.42857142857142855
+40,37,0,Newcastle,Newcastle 0 - 1 Everton,68,324,256,0.26459143968871596
+41,37,0,Swansea City,Swansea City 0 - 4 Manch. City,67,225,158,0.42138364779874216
+42,37,0,AS Rome,Sampdoria 0 - 0 AS Rome,59,71,12,4.538461538461538
+43,37,0,Bournemouth,Manch. Utd 1 - 0 Bournemouth,13,164,151,0.08552631578947369
+44,37,0,Cologne,Bayern Munich 1 - 0 Cologne,29,352,323,0.08950617283950617
+45,37,0,B & H Albion,Tottenham 2 - 0 B & H Albion,14,122,108,0.12844036697247707

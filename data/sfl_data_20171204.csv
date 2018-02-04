@@ -1,0 +1,71 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,56,Thoune,Thoune 3 - 1 Young Boys,8,38,30,0.25806451612903225
+1,2,53,Benevento Calcio,Benevento Calcio 2 - 2 Milan,45,153,108,0.41284403669724773
+2,3,48,Bursaspor,Atiker Konyaspor 1922 0 - 3 Bursaspor,28,34,6,4.0
+3,3,48,Roda,Roda 2 - 1 Heerenven,2,7,5,0.3333333333333333
+4,5,46,Genclerbirligi,Genclerbirligi 4 - 0 Sivasspor,3,9,6,0.42857142857142855
+5,6,44,CD Leganes,CD Leganes 3 - 1 Villarreal,4,103,99,0.04
+6,7,41,Wolfsbourg,Wolfsbourg 3 - 0 M'Gladbach,62,143,81,0.7560975609756098
+7,7,41,FC Lugano,Grasshopper 0 - 1 FC Lugano,3,15,12,0.23076923076923078
+8,9,39,Inter Milan,Inter Milan 5 - 0 Chievo,163,168,5,27.166666666666668
+9,10,38,Taiwan,Taiwan 3 - 0 Philippines,0,0,0,0.0
+10,10,38,SD Eibar,SD Eibar 3 - 1 Espanyol,15,26,11,1.25
+11,10,38,E. Francfort,Hertha Berlin 1 - 2 E. Francfort,13,78,65,0.19696969696969696
+12,13,36,FC Zürich,St Gall 1 - 3 FC Zürich,4,12,8,0.4444444444444444
+13,13,36,NAC Breda,NAC Breda 3 - 1 Excelsior,2,10,8,0.2222222222222222
+14,13,36,KAS Eupen,KAS Eupen 2 - 2 FC Bruges,13,39,26,0.48148148148148145
+15,16,35,Getafe,Getafe 1 - 0 Valence,10,598,588,0.01697792869269949
+16,17,34,Guimaraes,Vitoria 1 - 2 Guimaraes,9,19,10,0.8181818181818182
+17,17,34,Fenerbahce,Fenerbahce 4 - 2 Kasimpasa,25,30,5,4.166666666666667
+18,19,33,CD Aves,CD Feirense 0 - 1 CD Aves,1,2,1,0.5
+19,19,33,Royal Antwerp,Standard Liège 1 - 1 Royal Antwerp,25,54,29,0.8333333333333334
+20,21,31,Fiorentina AC,Fiorentina AC 3 - 0 US Sassuolo,40,57,17,2.2222222222222223
+21,21,31,Lazio,Sampdoria 1 - 2 Lazio,101,223,122,0.8211382113821138
+22,23,29,Braga,Braga 3 - 0 Paços Ferreira,19,19,0,19.0
+23,23,29,Lyon,Caen 1 - 2 Lyon,284,344,60,4.655737704918033
+24,25,28,Las Palmas,Las Palmas 1 - 0 Betis Séville,19,85,66,0.2835820895522388
+25,26,27,Alkmaar,VVV Venlo 0 - 2 Alkmaar,5,10,5,0.8333333333333334
+26,27,26,La Gantoise,Zulte-Waregem 0 - 1 La Gantoise,16,44,28,0.5517241379310345
+27,27,26,Laos,Laos 2 - 1 Timor Oriental,2,2,0,2.0
+28,29,24,Cagliari,Bologne 1 - 1 Cagliari,9,42,33,0.2647058823529412
+29,30,22,Nantes,Saint-Etienne 1 - 1 Nantes,362,428,66,5.402985074626866
+30,30,22,Montpellier,Montpellier 1 - 1 Marseille,318,468,150,2.1059602649006623
+31,32,21,İstanbul Basaksehir,İstanbul Basaksehir 1 - 0 Osmanlispor,18,20,2,6.0
+32,32,21,Manch. City,Manch. City 2 - 1 West Ham,438,476,38,11.23076923076923
+33,32,21,Bournemouth,Bournemouth 1 - 1 Southampton,40,89,49,0.8
+34,35,18,Southampton,Bournemouth 1 - 1 Southampton,49,89,40,1.1951219512195121
+35,35,18,FC Bruges,KAS Eupen 2 - 2 FC Bruges,26,39,13,1.8571428571428572
+36,37,17,Saint-Etienne,Saint-Etienne 1 - 1 Nantes,66,428,362,0.18181818181818182
+37,37,17,Milan,Benevento Calcio 2 - 2 Milan,108,153,45,2.347826086956522
+38,39,16,Marseille,Montpellier 1 - 1 Marseille,150,468,318,0.4702194357366771
+39,39,16,PSV,PSV 1 - 0 Sparta Rotterdam,133,156,23,5.541666666666667
+40,41,15,Bologne,Bologne 1 - 1 Cagliari,33,42,9,3.3
+41,42,13,Standard Liège,Standard Liège 1 - 1 Royal Antwerp,29,54,25,1.1153846153846154
+42,43,10,Kasimpasa,Fenerbahce 4 - 2 Kasimpasa,5,30,25,0.19230769230769232
+43,44,5,St Gall,St Gall 1 - 3 FC Zürich,8,12,4,1.6
+44,44,5,Villarreal,CD Leganes 3 - 1 Villarreal,99,103,4,19.8
+45,44,5,Espanyol,SD Eibar 3 - 1 Espanyol,11,26,15,0.6875
+46,44,5,Sampdoria,Sampdoria 1 - 2 Lazio,122,223,101,1.196078431372549
+47,44,5,Excelsior,NAC Breda 3 - 1 Excelsior,8,10,2,2.6666666666666665
+48,44,5,West Ham,Manch. City 2 - 1 West Ham,38,476,438,0.08656036446469248
+49,44,5,Vitoria,Vitoria 1 - 2 Guimaraes,10,19,9,1.0
+50,44,5,Heerenven,Roda 2 - 1 Heerenven,5,7,2,1.6666666666666667
+51,44,5,Hertha Berlin,Hertha Berlin 1 - 2 E. Francfort,65,78,13,4.642857142857143
+52,44,5,Young Boys,Thoune 3 - 1 Young Boys,30,38,8,3.3333333333333335
+53,44,5,Timor Oriental,Laos 2 - 1 Timor Oriental,0,2,2,0.0
+54,44,5,Caen,Caen 1 - 2 Lyon,60,344,284,0.21052631578947367
+55,56,0,Sivasspor,Genclerbirligi 4 - 0 Sivasspor,6,9,3,1.5
+56,56,0,VVV Venlo,VVV Venlo 0 - 2 Alkmaar,5,10,5,0.8333333333333334
+57,56,0,CD Feirense,CD Feirense 0 - 1 CD Aves,1,2,1,0.5
+58,56,0,US Sassuolo,Fiorentina AC 3 - 0 US Sassuolo,17,57,40,0.4146341463414634
+59,56,0,Valence,Getafe 1 - 0 Valence,588,598,10,53.45454545454545
+60,56,0,Osmanlispor,İstanbul Basaksehir 1 - 0 Osmanlispor,2,20,18,0.10526315789473684
+61,56,0,Betis Séville,Las Palmas 1 - 0 Betis Séville,66,85,19,3.3
+62,56,0,Chievo,Inter Milan 5 - 0 Chievo,5,168,163,0.03048780487804878
+63,56,0,Atiker Konyaspor 1922,Atiker Konyaspor 1922 0 - 3 Bursaspor,6,34,28,0.20689655172413793
+64,56,0,Paços Ferreira,Braga 3 - 0 Paços Ferreira,0,19,19,0.0
+65,56,0,M'Gladbach,Wolfsbourg 3 - 0 M'Gladbach,81,143,62,1.2857142857142858
+66,56,0,Sparta Rotterdam,PSV 1 - 0 Sparta Rotterdam,23,156,133,0.17164179104477612
+67,56,0,Grasshopper,Grasshopper 0 - 1 FC Lugano,12,15,3,3.0
+68,56,0,Philippines,Taiwan 3 - 0 Philippines,0,0,0,0.0
+69,56,0,Zulte-Waregem,Zulte-Waregem 0 - 1 La Gantoise,28,44,16,1.6470588235294117

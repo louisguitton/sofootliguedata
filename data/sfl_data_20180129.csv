@@ -1,0 +1,55 @@
+,Position,Points SFL,Equipe,Match,Joueurs l'ayant choisi,total_choice,choix_autre,bet_safety
+0,1,140,Hellas Vérone,Fiorentina AC 1 - 4 Hellas Vérone,23,40,17,1.2777777777777777
+1,2,80,Sampdoria,AS Rome 0 - 1 Sampdoria,47,79,32,1.4242424242424243
+2,3,60,Sporting Lokeren,KV Ostende 2 - 3 Sporting Lokeren,11,15,4,2.2
+3,4,51,Bordeaux,Bordeaux 3 - 1 Lyon,92,856,764,0.12026143790849673
+4,5,40,CD Leganes,CD Leganes 3 - 2 Espanyol,60,133,73,0.8108108108108109
+5,6,39,Udinese,Genoa 0 - 1 Udinese,72,108,36,1.945945945945946
+6,7,38,Getafe,FC Séville 1 - 1 Getafe,12,129,117,0.1016949152542373
+7,7,38,La Gantoise,La Gantoise 2 - 0 FC Bruges,13,30,17,0.7222222222222222
+8,9,35,Wolfsbourg,Hanovre 0 - 1 Wolfsbourg,54,149,95,0.5625
+9,10,34,Roda,Roda 2 - 1 Excelsior,9,23,14,0.6
+10,11,33,Utrecht,Utrecht 0 - 0 Ajax,16,28,12,1.2307692307692308
+11,11,33,SPAL 2013,SPAL 2013 1 - 1 Inter Milan,26,165,139,0.18571428571428572
+12,13,32,Lille,Lille 2 - 1 Strasbourg,108,200,92,1.1612903225806452
+13,14,30,Monaco,Marseille 2 - 2 Monaco,510,700,190,2.670157068062827
+14,15,29,Anderlecht,Standard Liège 3 - 3 Anderlecht,33,37,4,6.6
+15,15,29,Chelsea,Chelsea 3 - 0 Newcastle,36,50,14,2.4
+16,15,29,Torino FC,Torino FC 3 - 0 Benevento Calcio,38,89,51,0.7307692307692307
+17,18,28,Standard Liège,Standard Liège 3 - 3 Anderlecht,4,37,33,0.11764705882352941
+18,18,28,Alkmaar,Willem II 0 - 2 Alkmaar,5,24,19,0.25
+19,20,27,Atl. Madrid,Atl. Madrid 3 - 0 Las Palmas,73,96,23,3.0416666666666665
+20,20,27,Feyenoord,Feyenoord 3 - 1 La Haye,33,55,22,1.434782608695652
+21,20,27,Naples,Naples 3 - 1 Bologne,252,260,8,28.0
+22,23,24,Leverkusen,Leverkusen 2 - 0 Mayence,112,143,31,3.5
+23,23,24,Antalyaspor,Akhisar Belediyespor 1 - 1 Antalyaspor,15,21,6,2.142857142857143
+24,25,23,Manch. City,Cardiff City 0 - 2 Manch. City,69,79,10,6.2727272727272725
+25,26,21,Cagliari,Crotone FC 1 - 1 Cagliari,21,46,25,0.8076923076923077
+26,26,21,Barcelone,Barcelone 2 - 1 CD Alaves,168,182,14,11.2
+27,28,20,Fenerbahce,Trabzonspor 1 - 1 Fenerbahce,112,122,10,10.181818181818182
+28,28,20,Marseille,Marseille 2 - 2 Monaco,190,700,510,0.37181996086105673
+29,30,17,Trabzonspor,Trabzonspor 1 - 1 Fenerbahce,10,122,112,0.08849557522123894
+30,30,17,Crotone FC,Crotone FC 1 - 1 Cagliari,25,46,21,1.1363636363636365
+31,32,15,Akhisar Belediyespor,Akhisar Belediyespor 1 - 1 Antalyaspor,6,21,15,0.375
+32,33,13,FC Séville,FC Séville 1 - 1 Getafe,117,129,12,9.0
+33,33,13,Inter Milan,SPAL 2013 1 - 1 Inter Milan,139,165,26,5.148148148148148
+34,35,10,Espanyol,CD Leganes 3 - 2 Espanyol,73,133,60,1.1967213114754098
+35,35,10,KV Ostende,KV Ostende 2 - 3 Sporting Lokeren,4,15,11,0.3333333333333333
+36,37,7,Ajax,Utrecht 0 - 0 Ajax,12,28,16,0.7058823529411765
+37,38,5,Bologne,Naples 3 - 1 Bologne,8,260,252,0.03162055335968379
+38,38,5,CD Alaves,Barcelone 2 - 1 CD Alaves,14,182,168,0.08284023668639054
+39,38,5,Excelsior,Roda 2 - 1 Excelsior,14,23,9,1.4
+40,38,5,La Haye,Feyenoord 3 - 1 La Haye,22,55,33,0.6470588235294118
+41,38,5,Fiorentina AC,Fiorentina AC 1 - 4 Hellas Vérone,17,40,23,0.7083333333333334
+42,38,5,Strasbourg,Lille 2 - 1 Strasbourg,92,200,108,0.8440366972477065
+43,38,5,Lyon,Bordeaux 3 - 1 Lyon,764,856,92,8.21505376344086
+44,45,0,Benevento Calcio,Torino FC 3 - 0 Benevento Calcio,51,89,38,1.3076923076923077
+45,45,0,Hanovre,Hanovre 0 - 1 Wolfsbourg,95,149,54,1.7272727272727273
+46,45,0,Las Palmas,Atl. Madrid 3 - 0 Las Palmas,23,96,73,0.3108108108108108
+47,45,0,Willem II,Willem II 0 - 2 Alkmaar,19,24,5,3.1666666666666665
+48,45,0,Mayence,Leverkusen 2 - 0 Mayence,31,143,112,0.2743362831858407
+49,45,0,FC Bruges,La Gantoise 2 - 0 FC Bruges,17,30,13,1.2142857142857142
+50,45,0,Cardiff City,Cardiff City 0 - 2 Manch. City,10,79,69,0.14285714285714285
+51,45,0,AS Rome,AS Rome 0 - 1 Sampdoria,32,79,47,0.6666666666666666
+52,45,0,Newcastle,Chelsea 3 - 0 Newcastle,14,50,36,0.3783783783783784
+53,45,0,Genoa,Genoa 0 - 1 Udinese,36,108,72,0.4931506849315068
